@@ -1,3 +1,8 @@
 this is first line
+<<<<<<< HEAD
 this is second line
 ignore this line
+=======
+this is second line 
+this is third line
+>>>>>>> 96f3a88a479617fcda72239ac92002885f56212b
